@@ -1,0 +1,31 @@
+body{
+	background-color: #F0FFFF;
+}
+
+p {
+	color : green;
+}
+
+a {
+        color : blue;
+}
+
+a:hover {
+        color : gray;
+}
+
+.p1_p {
+	color : orange;
+	background-color : #2F4F4F;
+}
+
+#pID1 {
+	color : red;
+	background-color: #5F9EA0;
+}
+
+div {
+	border: 2px solid blue;
+	display: inline-block;
+	padding: 10px;
+}
